@@ -1,4 +1,4 @@
-<h1 align="left">Jogo Mario</h1>
+<h1 align="left">Super Mario com JavaScript</h1>
    
 <h3 align="center">Bora de <a href="https://devrailan.github.io/Super-Mario.github.io/">Game</a></h3>   
 <img src="https://cdn.discordapp.com/attachments/876799799255531523/999749650816970852/mariogame.png">
