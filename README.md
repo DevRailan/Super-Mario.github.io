@@ -1,6 +1,11 @@
-# Super-Mario.github.io
-
-<h3>Jogo feito com Javascript, HTML e CSS, foi feito com base em alguns modelos que ja tem  na internet</h3>
-
-
-<h1> Clique <a href="https://devrailan.github.io/Super-Mario.github.io/"aqui</a></h1>
+<h1 align="left">Jogo Mario 🎮</h1>
+   
+<h3 align="center">Bora de <a href="https://devrailan.github.io/Super-Mario.github.io/">Game</a></h3>   
+<img src="https://cdn.discordapp.com/attachments/876799799255531523/999749650816970852/mariogame.png">
+<div inline:block>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
+<p align="center">Créditos a:<a href="https://youtu.be/4WDCv1O13AY"> 
+Jonathan Costa</a></p>
